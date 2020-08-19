@@ -3,10 +3,11 @@
 I'm a Licensed Professional Engineer working as a Technology Consultant at [Imaginary Wave Technology, LLC.](http://www.imaginarywave.com).
 Concentrating on Network Architecture Design and other Networking Solutions mostly revolving around ![cisco](https://img.shields.io/badge/-Cisco-049fd9?style=flat&logo=cisco&logoColor=white) systems.
 
-Web appliction development using ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-cc0000?style=flat&logo=ruby&logoColor=white) using HAML and ![Sass](https://img.shields.io/badge/-Sass-CD6799?style=flat&logo=sass&logoColor=white).
+Web appliction development using ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-cc0000?style=flat&logo=ruby&logoColor=white) using HAML and ![Sass](https://img.shields.io/badge/-Sass-CD6799?style=flat&logo=sass&logoColor=white) and ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white).
 
 My preferred platform is UNIX wrapped in either ![OSX](https://img.shields.io/badge/-OSX-006CFF?style=flat&logo=apple&logoColor=white) or ![Linux](https://img.shields.io/badge/-Linux-DD4814?style=flat&logo=ubuntu&logoColor=white).
 Programming using a plethora of languages but most prolific in ![Perl](https://img.shields.io/badge/-Perl-0074A2?style=flat&logo=perl&logoColor=white) and ![Bash](https://img.shields.io/badge/-Bash-AA3327?style=flat&logo=bash&logoColor=white).
+Advanced Data Analysis using ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white) and ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=vim&logoColor=white).
 Editing in ![Vim](https://img.shields.io/badge/-Vim-007f00?style=flat&logo=vim&logoColor=white).
 
 I am also a Professional Photographer focused on Fashion.  My photos can be seen at [Imaginary Wave Photos](http://photos.imaginarywave.com) or on
