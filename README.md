@@ -9,6 +9,9 @@ My preferred platform is UNIX wrapped in either ![OSX](https://img.shields.io/ba
 Programming using a plethora of languages but most prolific in ![Perl](https://img.shields.io/badge/-Perl-0074A2?style=flat&logo=perl&logoColor=white) and ![Bash](https://img.shields.io/badge/-Bash-AA3327?style=flat&logo=bash&logoColor=white). 
 Editing in ![Vim](https://img.shields.io/badge/-Vim-007f00?style=flat&logo=vim&logoColor=white).
 
+I am also a Professional Photographer focused on Fashion.  My photos can be seen at [Imaginary Wave Photos](http://photos.imaginarywave.com) or on   
+[![Intasgram](https://img.shields.io/badge/-Instagram-f44747?style=flat&logo=vim&logoColor=white&link=https://www.instagram.com/imaginary_wave/)](https://www.instagram.com/imaginary_wave/).
+
 <!--
 **mattmartini/mattmartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,7 +32,7 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-mattmartini-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mattmartini/)](https://www.github.com/mattmartini/)
 
-[![StackOverflow Badge](https://img.shields.io/badge/-mattmartini-f47f24?style=flat&logo=stackoverflow&logoColor=white&link=ihttps://stackoverflow.com/users/574621/merm)](https://stackoverflow.com/users/574621/merm)
+[![StackOverflow Badge](https://img.shields.io/badge/-mattmartini-f47f24?style=flat&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/574621/merm)](https://stackoverflow.com/users/574621/merm)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matthew%20Martini,%20PE-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-martini-pe-7055138/)](https://www.linkedin.com/in/matthew-martini-pe-7055138/)
 
