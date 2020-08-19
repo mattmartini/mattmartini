@@ -1,4 +1,8 @@
-### Welcome to my Projects
+### Hi there, I'm Matt
+
+I'm a Technology Consultant at [Imaginary Wave Technology, LLC.](http://www.imaginarywave.com).
+
+![cisco](images/cisco.svg)
 
 <!--
 **mattmartini/mattmartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +18,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 [![Github Badge](https://img.shields.io/badge/-mattmartini-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mattmartini/)](https://www.github.com/mattmartini/)
 
 [![StackOverflow Badge](https://img.shields.io/badge/-mattmartini-grey?style=flat&logo=stackoverflow&logoColor=white&link=ihttps://stackoverflow.com/users/574621/merm)](https://stackoverflow.com/users/574621/merm)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matthew%20Martini,%20PE-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-martini-pe-7055138/)](https://www.linkedin.com/in/matthew-martini-pe-7055138/)
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=mattmartini alt=mattmartini /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mattmartini&show_icons=true&include_all_commits=true)](https://github.com/mattmartini/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattmartini&layout=compact)](https://github.com/mattmartini/github-readme-stats)
+
+> "Obviously, there is something wrong with it."
+
+<p align=left> <img src=https://komarev.com/ghpvc/?username=mattmartini alt=mattmartini /> </p>
