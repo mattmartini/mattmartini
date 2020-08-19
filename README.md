@@ -1,11 +1,11 @@
 ### Hi there, I'm Matt
 
-I'm a Technology Consultant at [Imaginary Wave Technology, LLC.](http://www.imaginarywave.com).  
+I'm a Licensed Professional Engineer working as a Technology Consultant at [Imaginary Wave Technology, LLC.](http://www.imaginarywave.com).  
 Concentrating on Network Architecture Design and other Networking Solutions mostly revolving around ![cisco](https://img.shields.io/badge/-Cisco-049fd9?style=flat&logo=cisco&logoColor=white) systems.
 
 Web appliction development using ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-cc0000?style=flat&logo=ruby&logoColor=white) using HAML and ![Sass](https://img.shields.io/badge/-Sass-CD6799?style=flat&logo=sass&logoColor=white)
 
-My preferred platform is UNIX wrapped in either ![OSX](https://img.shields.io/badge/-OSX-006CFF?style=flat&logo=apple&logoColor=white) or ![Linux](https://img.shields.io/badge/-Linux-DD4814?style=flat&logo=ubuntu&logoColor=white).
+My preferred platform is UNIX wrapped in either ![OSX](https://img.shields.io/badge/-OSX-006CFF?style=flat&logo=apple&logoColor=white) or ![Linux](https://img.shields.io/badge/-Linux-DD4814?style=flat&logo=ubuntu&logoColor=white). Programming since 1979 using a plethora of languages but most prolific in ![Perl](https://img.shields.io/badge/-Perl-0074A2?style=flat&logo=vim&logoColor=white) and ![Bash](https://img.shields.io/badge/-Bash-AA3327?style=flat&logo=vim&logoColor=white). Editing in ![Vim](https://img.shields.io/badge/-Vim-007f00?style=flat&logo=vim&logoColor=white).
 
 <!--
 **mattmartini/mattmartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
