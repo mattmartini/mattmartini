@@ -6,12 +6,16 @@ Concentrating on Network Architecture Design and other Networking Solutions most
 Web appliction development using ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-cc0000?style=flat&logo=ruby&logoColor=white) using HAML and ![Sass](https://img.shields.io/badge/-Sass-CD6799?style=flat&logo=sass&logoColor=white) and ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white).
 
 My preferred platform is UNIX wrapped in either ![OSX](https://img.shields.io/badge/-OSX-006CFF?style=flat&logo=apple&logoColor=white) or ![Linux](https://img.shields.io/badge/-Linux-DD4814?style=flat&logo=ubuntu&logoColor=white).<br />
-Programming using a plethora of languages but most prolific in ![Perl](https://img.shields.io/badge/-Perl-0074A2?style=flat&logo=perl&logoColor=white) and ![Bash](https://img.shields.io/badge/-Bash-AA3327?style=flat&logo=bash&logoColor=white).
-Advanced Data Analysis using ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white) and ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white).
+Programming using a plethora of languages but most prolific in ![Perl](https://img.shields.io/badge/-Perl-0074A2?style=flat&logo=perl&logoColor=white) and ![Bash](https://img.shields.io/badge/-Bash-AA3327?style=flat&logo=bash&logoColor=white).<br />
+Advanced Data Analysis using ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white) and ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white).<br />
 Editing in ![Vim](https://img.shields.io/badge/-Vim-007f00?style=flat&logo=vim&logoColor=white).
 
 I am also a Professional Photographer focused on Fashion.  My photos can be seen at [Imaginary Wave Photos](http://photos.imaginarywave.com) or on
 [![Intasgram](https://img.shields.io/badge/-Instagram-f44747?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/imaginary_wave/)](https://www.instagram.com/imaginary_wave/).
+
+
+### Look here for my full Résumé:
+[Résumé](https://github.com/mattmartini/mattmartini/blob/master/resume/CV_exteneded-Matt_Martini-202008.pdf)
 
 
 ### You can find me in these places:
