@@ -14,8 +14,7 @@ I am also a Professional Photographer focused on Fashion.  My photos can be seen
 [![Intasgram](https://img.shields.io/badge/-Instagram-f44747?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/imaginary_wave/)](https://www.instagram.com/imaginary_wave/).
 
 
-### Look here for my full Résumé:
-[Résumé](https://github.com/mattmartini/mattmartini/blob/master/resume/CV_exteneded-Matt_Martini-202008.pdf)
+### Look here for my full [Résumé](https://github.com/mattmartini/mattmartini/blob/master/resume/CV_exteneded-Matt_Martini-202008.pdf)
 
 
 ### You can find me in these places:
