@@ -2,8 +2,8 @@
 
 I'm a Technology Consultant at [Imaginary Wave Technology, LLC.](http://www.imaginarywave.com).
 
-![cisco](https://img.shields.io/badge/-cisco-grey?style=flat&logo=cisco&logoColor=white
-![cisco](https://img.shields.io/badge/?style=flat&logo=cisco&logoColor=white
+![cisco](https://img.shields.io/badge/-cisco-grey?style=flat&logo=cisco&logoColor=white)
+![cisco](https://img.shields.io/badge/?style=flat&logo=cisco&logoColor=white)
 
 <!--
 **mattmartini/mattmartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
