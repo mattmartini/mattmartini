@@ -10,7 +10,7 @@ Programming using a plethora of languages but most prolific in ![Perl](https://i
 Advanced Data Analysis using ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white) and ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white).<br />
 Editing in ![Vim](https://img.shields.io/badge/-Vim-007f00?style=flat&logo=vim&logoColor=white).
 
-I am also a Professional Photographer focused on Fashion and proficient in ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white). My photos can be seen at [Imaginary Wave Photos](http://photos.imaginarywave.com) or on
+I am also a Professional Photographer focused on Fashion and proficient in ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white). <br />My photos can be seen at [Imaginary Wave Photos](http://photos.imaginarywave.com) or on
 [![Intasgram](https://img.shields.io/badge/-Instagram-f44747?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/imaginary_wave/)](https://www.instagram.com/imaginary_wave/).
 
 
