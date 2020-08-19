@@ -1,9 +1,9 @@
 ### Hi there, I'm Matt
 
-I'm a Technology Consultant at [Imaginary Wave Technology, LLC.](http://www.imaginarywave.com).
+I'm a Technology Consultant at [Imaginary Wave Technology, LLC.](http://www.imaginarywave.com).  
+Concentrating on Networking Solutions mostly consisting of ![cisco](https://img.shields.io/badge/-cisco-grey?style=flat&logo=cisco&logoColor=#049fd9) systems.
 
-![cisco](https://img.shields.io/badge/-cisco-grey?style=flat&logo=cisco&logoColor=white)
-![cisco](https://img.shields.io/badge/?style=flat&logo=cisco&logoColor=white)
+
 
 <!--
 **mattmartini/mattmartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
