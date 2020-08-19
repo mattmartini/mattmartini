@@ -2,7 +2,7 @@
 
 I'm a Technology Consultant at [Imaginary Wave Technology, LLC.](http://www.imaginarywave.com).
 
-![cisco](images/cisco.svg)
+![cisco](https://github.com/mattmartini/mattmartini/blob/master/images/cisco.svg)
 
 <!--
 **mattmartini/mattmartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
