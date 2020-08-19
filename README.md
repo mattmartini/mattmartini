@@ -1,9 +1,9 @@
 ### Hi there, I'm Matt
 
 I'm a Technology Consultant at [Imaginary Wave Technology, LLC.](http://www.imaginarywave.com).  
-Concentrating on Network Architecture Design and other Networking Solutions mostly revolving around ![cisco](https://img.shields.io/badge/-Cisco-049fd9?style=flat&logo=cisco&logoColor=#049fd9) systems.
+Concentrating on Network Architecture Design and other Networking Solutions mostly revolving around ![cisco](https://img.shields.io/badge/-Cisco-049fd9?style=flat&logo=cisco&logoColor=white) systems.
 
-Web appliction development using ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-cc0000?style=flat&logo=rubyonrails&logoColor=red)
+Web appliction development using ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-cc0000?style=flat&logo=ruby&logoColor=red)
 
 ![cisco](https://img.shields.io/badge/--049fd9?style=social&logo=cisco&logoColor=#049fd9)
 
