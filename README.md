@@ -3,7 +3,7 @@
 I'm a Technology Consultant at [Imaginary Wave Technology, LLC.](http://www.imaginarywave.com).  
 Concentrating on Networking Solutions mostly consisting of ![cisco](https://img.shields.io/badge/-cisco-grey?style=flat&logo=cisco&logoColor=#049fd9) systems.
 
-![cisco](https://img.shields.io/badge/-cisco-049fd9?style=social&logo=cisco&logoColor=#049fd9) systems.
+![cisco](https://img.shields.io/badge/--049fd9?style=social&logo=cisco&logoColor=#049fd9) systems.
 
 
 
