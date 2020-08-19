@@ -10,7 +10,7 @@ Programming using a plethora of languages but most prolific in ![Perl](https://i
 Editing in ![Vim](https://img.shields.io/badge/-Vim-007f00?style=flat&logo=vim&logoColor=white).
 
 I am also a Professional Photographer focused on Fashion.  My photos can be seen at [Imaginary Wave Photos](http://photos.imaginarywave.com) or on   
-[![Intasgram](https://img.shields.io/badge/-Instagram-f44747?style=flat&logo=vim&logoColor=white&link=https://www.instagram.com/imaginary_wave/)](https://www.instagram.com/imaginary_wave/).
+[![Intasgram](https://img.shields.io/badge/-Instagram-f44747?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/imaginary_wave/)](https://www.instagram.com/imaginary_wave/).
 
 <!--
 **mattmartini/mattmartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
