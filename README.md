@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Github Badge](https://img.shields.io/badge/-mattmartini-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mattmartini/)](https://www.github.com/mattmartini/)
+
 [![StackOverflow Badge](https://img.shields.io/badge/-mattmartini-grey?style=flat&logo=stackoverflow&logoColor=white&link=ihttps://stackoverflow.com/users/574621/merm)](https://stackoverflow.com/users/574621/merm)
-[![Linkedin Badge](https://img.shields.io/badge/-Matthew Martini, PE-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Matthew Martini, PE/)](https://www.linkedin.com/in/Matthew Martini, PE/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Matthew Martini, PE-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-martini-pe-7055138/)](https://www.linkedin.com/in/matthew-martini-pe-7055138/)
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mattmartini alt=mattmartini /> </p>
 
