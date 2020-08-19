@@ -3,7 +3,7 @@
 I'm a Technology Consultant at [Imaginary Wave Technology, LLC.](http://www.imaginarywave.com).  
 Concentrating on Network Architecture Design and other Networking Solutions mostly revolving around ![cisco](https://img.shields.io/badge/--049fd9?style=social&logo=cisco&logoColor=#049fd9) systems.
 
-Web appliction development using ![Ruby on Rails](https://img.shields.io/badge/--cc0000?style=social&logo=rubyonrails&logoColor=white)
+Web appliction development using ![Ruby on Rails](https://img.shields.io/badge/--cc0000?style=social&logo=rubyonrails&logoColor=red)
 
 ![cisco](https://img.shields.io/badge/--049fd9?style=social&logo=cisco&logoColor=#049fd9)
 
