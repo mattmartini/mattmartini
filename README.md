@@ -5,8 +5,7 @@ Concentrating on Network Architecture Design and other Networking Solutions most
 
 Web appliction development using ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-cc0000?style=flat&logo=ruby&logoColor=white) using HAML and ![Sass](https://img.shields.io/badge/-Sass-CD6799?style=flat&logo=sass&logoColor=white)
 
-
-
+My preferred platform is UNIX wrapped in either ![OSX](https://img.shields.io/badge/-OSX-006CFF?style=flat&logo=apple&logoColor=white) or ![Linux](https://img.shields.io/badge/-Linux-DD4814?style=flat&logo=ubuntu&logoColor=white).
 
 <!--
 **mattmartini/mattmartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +27,7 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-mattmartini-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mattmartini/)](https://www.github.com/mattmartini/)
 
-[![StackOverflow Badge](https://img.shields.io/badge/-mattmartini-grey?style=flat&logo=stackoverflow&logoColor=white&link=ihttps://stackoverflow.com/users/574621/merm)](https://stackoverflow.com/users/574621/merm)
+[![StackOverflow Badge](https://img.shields.io/badge/-mattmartini-f47f24?style=flat&logo=stackoverflow&logoColor=white&link=ihttps://stackoverflow.com/users/574621/merm)](https://stackoverflow.com/users/574621/merm)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matthew%20Martini,%20PE-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-martini-pe-7055138/)](https://www.linkedin.com/in/matthew-martini-pe-7055138/)
 
