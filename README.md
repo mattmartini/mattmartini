@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+&layout=compact
 -->
 [![Github Badge](https://img.shields.io/badge/-mattmartini-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mattmartini/)](https://www.github.com/mattmartini/)
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mattmartini alt=mattmartini /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mattmartini&show_icons=true&include_all_commits=true)](https://github.com/mattmartini/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattmartini&layout=compact)](https://github.com/mattmartini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattmartini)](https://github.com/mattmartini/github-readme-stats)
