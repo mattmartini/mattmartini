@@ -1,6 +1,6 @@
 ### Hi there, I'm Matt
 
-I'm a Licensed Professional Engineer working as a Technology Consultant at [Imaginary Wave Technology, LLC.](http://www.imaginarywave.com).
+I'm a Licensed Professional Engineer working as a Technology Consultant at Imaginary Wave Technology, LLC.
 Concentrating on Network Architecture Design and other Networking Solutions mostly revolving around ![cisco](https://img.shields.io/badge/-Cisco-049fd9?style=flat&logo=cisco&logoColor=white) systems.
 
 Web appliction development using ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-cc0000?style=flat&logo=ruby&logoColor=white) using HAML, ![Sass](https://img.shields.io/badge/-Sass-CD6799?style=flat&logo=sass&logoColor=white), and ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white).
@@ -14,7 +14,7 @@ Additionally, a Professional Photographer focused on Fashion and proficient in !
 [![Intasgram](https://img.shields.io/badge/-Instagram-f44747?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/imaginary_wave/)](https://www.instagram.com/imaginary_wave/).
 
 
-### Look here for my full [Résumé](https://github.com/mattmartini/mattmartini/blob/master/resume/CV_exteneded-Matt_Martini-202008.pdf)
+### Contact me for my full Résumé
 
 
 ### You can find me in these places:
