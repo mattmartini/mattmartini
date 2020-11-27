@@ -4,6 +4,7 @@ I'm a Licensed Professional Engineer working as a Technology Consultant at Imagi
 Concentrating on Network Architecture Design and other Networking Solutions mostly revolving around ![cisco](https://img.shields.io/badge/-Cisco-049fd9?style=flat&logo=cisco&logoColor=white) systems.
 
 Web appliction development using ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-cc0000?style=flat&logo=ruby&logoColor=white) using HAML, ![Sass](https://img.shields.io/badge/-Sass-CD6799?style=flat&logo=sass&logoColor=white), and ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white).
+Currently dabbling in FullStack development with ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) and ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white).
 
 My preferred platform is UNIX wrapped in either ![OSX](https://img.shields.io/badge/-OSX-006CFF?style=flat&logo=apple&logoColor=white) or ![Linux](https://img.shields.io/badge/-Linux-DD4814?style=flat&logo=ubuntu&logoColor=white).<br />
 Programming using a plethora of languages but most prolific in ![Perl](https://img.shields.io/badge/-Perl-0074A2?style=flat&logo=perl&logoColor=white) and ![Bash](https://img.shields.io/badge/-Bash-AA3327?style=flat&logo=bash&logoColor=white).<br />
