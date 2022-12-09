@@ -8,7 +8,7 @@ Currently dabbling in FullStack development with ![React](https://img.shields.io
 
 My preferred platform is UNIX wrapped in either ![OSX](https://img.shields.io/badge/-OSX-006CFF?style=flat&logo=apple&logoColor=white) or ![Linux](https://img.shields.io/badge/-Linux-DD4814?style=flat&logo=ubuntu&logoColor=white).<br />
 Programming using a plethora of languages but most prolific in ![Perl](https://img.shields.io/badge/-Perl-0074A2?style=flat&logo=perl&logoColor=white) and ![Bash](https://img.shields.io/badge/-Bash-AA3327?style=flat&logo=bash&logoColor=white).<br />
-Advanced Data Analysis using ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white) and ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white).<br />
+Advanced Data Analysis using ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white), ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=ffe873), and ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white).<br />
 Editing in ![Vim](https://img.shields.io/badge/-Vim-007f00?style=flat&logo=vim&logoColor=white).
 
 Additionally, a Professional Photographer focused on Fashion and proficient in ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white). <br />My photos can be seen at [Imaginary Wave Photos](http://photos.imaginarywave.com) or on
